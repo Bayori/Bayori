@@ -14,26 +14,10 @@
   <h3>My hobbies:</h4>
   <pre>
     🎮Gaming • Creating games    Minecraft, Terraria • Echo In The Void (In progress)
-    💻Programming                Favourite Programming Language - C#
+    💻Programming                Favorite Programming Language - C#
     ⚡ Fun fact:                 Buranyaaa
   </pre>
 </div>
 <p align="center">
   <img src="neco-arc.gif">
 <p\>
-
-
-<!--
-**TotallyNotAinaz/TotallyNotAinaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
