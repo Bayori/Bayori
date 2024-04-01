@@ -15,7 +15,7 @@
   <h3>My hobbies:</h4>
   <pre>
     🎮Gaming • Creating games    Minecraft, Terraria • Echo In The Void (In progress)
-    💻Programming                Favorite Programming Language - C#
+    💻Programming                Learning - Java (Spigot API, PaperMC API), C# (Unity), SQL
     ⚡ Fun fact:                 Buranyaaa
   </pre>
 </div>
