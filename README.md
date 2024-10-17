@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" alt="After Effects">
   <h3>My hobbies:</h4>
   <pre>
-    🎮Gaming • Creating games    Minecraft, Terraria • Echo In The Void (In progress)
+    🎮Gaming • Creating games    Minecraft, Terraria • Rubidium (In progress)
     💻Programming                Learning - Java (Spigot API, PaperMC API), C# (Unity), SQL
     ⚡ Fun fact:                 Buranyaaa
   </pre>
