@@ -15,7 +15,7 @@
   <h3>My hobbies:</h4>
   <pre>
     🎮Gaming • Creating games    Minecraft, Terraria • Trainverse (In progress)
-    💻Programming                Learning - Java (PaperMC API), C# (Unity), SQL
+    💻Programming                Learning - Java (Spring), C# (Unity), SQL
     ⚡ Fun fact:                 Buranyaaa
   </pre>
 </div>
